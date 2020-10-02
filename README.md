@@ -6,3 +6,4 @@
 ### link for final x.exe (this is an installer x.exe inside installed_place/BS/YTpyDL/dist/): https://drive.google.com/file/d/1Z_xphdB42wvbFDHw-Nt0r2ZEwEhbyAFH/view?usp=sharing
 ### this is for downloading one's own videos from yt
 ### im a beginner please feel free to improve the code for yourself
+Took help from various websites
